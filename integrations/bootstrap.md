@@ -20,6 +20,7 @@ $(document).on('focusin', function(e) {
   }
 });
 ```
+For TinyMCE v5 replace .mce-window with .tox-dialog
 
 #### A note about integrations
 
